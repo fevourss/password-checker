@@ -14,3 +14,19 @@
 2. Скачай файл 'password_checker.py'
 3. Запусти в терминале
 <img width="536" height="232" alt="Снимок экрана 2026-01-09 154046" src="https://github.com/user-attachments/assets/32820729-d7f3-4bcb-808d-8f88ade2e5d3" />
+
+
+## Description
+The program checks passwords against several criteria:
+- Password length
+- Presence of uppercase and lowercase letters
+- Presence of digits and special characters
+- Check against weak/common passwords
+
+It can also generate strong passwords and save verification results.
+
+## How to Run
+1. Install Python 3.x
+2. Download the file 'password_checker.py'
+3. Run in terminal
+4. <img width="536" height="232" alt="Снимок экрана 2026-01-09 154046" src="https://github.com/user-attachments/assets/32820729-d7f3-4bcb-808d-8f88ade2e5d3" />
