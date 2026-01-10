@@ -126,6 +126,5 @@ def main():
         else:
             print("Ошибка, попробуй снова")
 
-
 if __name__ == "__main__":
     main()
