@@ -29,4 +29,4 @@ It can also generate strong passwords and save verification results.
 1. Install Python 3.x
 2. Download the file 'password_checker.py'
 3. Run in terminal
-4. <img width="536" height="232" alt="Снимок экрана 2026-01-09 154046" src="https://github.com/user-attachments/assets/32820729-d7f3-4bcb-808d-8f88ade2e5d3" />
+    <img width="536" height="232" alt="Снимок экрана 2026-01-09 154046" src="https://github.com/user-attachments/assets/32820729-d7f3-4bcb-808d-8f88ade2e5d3" />
